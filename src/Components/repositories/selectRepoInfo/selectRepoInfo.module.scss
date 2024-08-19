@@ -1,0 +1,64 @@
+.noSelect{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.selectRepoInfoSection{
+    background-color: rgb(243, 243, 243);
+    width: 35vw;
+    height: 100%;
+}
+
+.selectRepoInfo{
+    margin: 0px 24px;
+}
+
+.name{
+    h1{
+        font-weight: 400;
+        font-size: 32;
+    }
+}
+
+.langStars{
+    margin-right: 32px;
+    display: flex;
+    justify-content: space-between;
+
+    .starCount{
+        display: flex;
+        align-items: center;
+        p{
+            margin-left: 8px;
+        }
+    }
+}
+
+.allLang{
+    display: flex;
+    flex-wrap: wrap;
+    p{
+        font-size: 14px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #00000014;
+        padding: 6px 11px;
+        margin: 10px;
+        margin-left: 0px;
+        border-radius: 100px;
+    }
+}
+
+.mainLang{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #2196F3;
+    padding: 10px 15px;
+    border-radius: 100px;
+}
