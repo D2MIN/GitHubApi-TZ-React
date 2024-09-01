@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GitHubApi-TZ-React/static/css/main.6754a8b8.css",
+    "main.js": "/GitHubApi-TZ-React/static/js/main.38a94a0c.js",
+    "index.html": "/GitHubApi-TZ-React/index.html",
+    "main.6754a8b8.css.map": "/GitHubApi-TZ-React/static/css/main.6754a8b8.css.map",
+    "main.38a94a0c.js.map": "/GitHubApi-TZ-React/static/js/main.38a94a0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6754a8b8.css",
+    "static/js/main.38a94a0c.js"
+  ]
+}
